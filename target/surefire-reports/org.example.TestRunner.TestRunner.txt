@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: org.example.TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 308.492 s <<< FAILURE! - in org.example.TestRunner.TestRunner
+org.example.TestRunner.TestRunner.runScenario  Time elapsed: 13.202 s  <<< FAILURE!
+java.lang.AssertionError: Open Nokia SLider Page expected [https://demo.nopcommerce.com/] but found [https://demo.nopcommerce.com/nokia-lumia-1020]
+
+org.example.TestRunner.TestRunner.runScenario  Time elapsed: 12.887 s  <<< FAILURE!
+java.lang.AssertionError: Open iPhone Slider Page expected [https://demo.nopcommerce.com/] but found [https://demo.nopcommerce.com/iphone-6]
+
+org.example.TestRunner.TestRunner.runScenario  Time elapsed: 13.552 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 1
+

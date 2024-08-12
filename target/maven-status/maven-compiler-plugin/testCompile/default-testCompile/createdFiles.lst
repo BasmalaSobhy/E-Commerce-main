@@ -1,0 +1,15 @@
+org\example\Steps\S04_Currencies.class
+org\example\Steps\S06_Categories.class
+org\example\Steps\S03_Login.class
+org\example\Steps\S01_Register.class
+org\example\Steps\S09_Wishlist.class
+org\example\Steps\S05_Search.class
+org\example\Pages\P04_HomePage.class
+org\example\Steps\Hooks.class
+org\example\Pages\P02_PasswordRecoveryPage.class
+org\example\Pages\P01_RegisterPage.class
+org\example\TestRunner\TestRunner.class
+org\example\Steps\S07_HomeSliders.class
+org\example\Steps\S08_FollowUs.class
+org\example\Steps\S02_PasswordRecovery.class
+org\example\Pages\P03_LoginPage.class

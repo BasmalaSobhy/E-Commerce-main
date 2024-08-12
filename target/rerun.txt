@@ -1,0 +1,5 @@
+file:src/main/resources/Features/F08_FollowUs.feature:12
+file:src/main/resources/Features/F09_Wishlist.feature:4:8
+file:src/main/resources/Features/F04_Currencies.feature:4
+file:src/main/resources/Features/F07_HomeSliders.feature:4:8
+file:src/main/resources/Features/F05_Search.feature:21:22
